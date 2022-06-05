@@ -1,0 +1,13 @@
+{
+  "name": "sv-scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "run": "npm run index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^10.2.0"
+  }
+}
